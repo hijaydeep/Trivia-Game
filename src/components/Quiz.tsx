@@ -178,38 +178,6 @@ const Quiz: React.FC = () => {
         </div>
       </div>
     </div>
-    // <div className="container">
-    //   <h1>Trivia Game</h1>
-    //   {loading ? (
-    //      <div className="d-flex justify-content-center align-items-center my-4">
-    //      <ThreeDots color="#553f9d" height={80} width={80} />
-    //    </div>
-    //    manifest.json
-    // {
-    //   "short_name": "React App",
-    //   "name": "Create React App Sample",
-    //   "icons": [
-    //     {
-    //       "src": "favicon.ico",
-    //       "sizes": "64x64 32x32 24x24 16x16",
-    //       "type": "image/x-icon"
-    //     },
-    //     {
-    //       "src": "logo192.png",
-    //       "type": "image/png",
-    //       "sizes": "192x192"
-    //     },
-    //     {
-    //       "src": "logo512.png",
-    //       "type": "image/png",
-    //       "sizes": "512x512"
-    //     }
-    //   ],
-    //   "start_url": ".",
-    //   "display": "standalone",
-    //   "theme_color": "#000000",
-    //   "background_color": "#ffffff"
-    // }
   );
 };
 
