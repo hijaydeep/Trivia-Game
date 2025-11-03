@@ -21,3 +21,6 @@ fetchData(): Fetches a new question and updates state. Handles empty results by 
 handleOptionClick(optionText): Tracks the user's selected answer.
 handleNext(): Moves to the next question or ends the quiz.
 handleReset(): Resets the quiz and score.
+
+## vercel link
+https://trivia-game-liart.vercel.app/
